@@ -1,4 +1,4 @@
-import srt from "../srt";
+import sorting from "../sort";
 
 test("sorting array", () => {
   const result = sorting([
